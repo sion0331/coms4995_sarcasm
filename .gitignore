@@ -164,3 +164,4 @@ cython_debug/
 #.idea/
 
 hyperparameter_tuning/
+catboost_info/
