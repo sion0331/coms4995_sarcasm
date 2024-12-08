@@ -1,4 +1,5 @@
-# coms4995_sarcasm
+# Reading Between the Lines: A NLP approach to Sarcasm Detection
+### Authors: Sion Chun, Meyhar Sharma, Tejas Chhotulal Badgujar, Ritayan Patra
 
 Sarcasm is tricky to understand and even harder to identify using computers in Natural Language Processing
 (NLP). It often relies on special ways of saying things and a deep knowledge of the language, which even humans
