@@ -11,5 +11,4 @@ learning model using NLP to figure out if a news headline is sarcastic or not (a
 
 The complete code with data preprocessing and model building and evaluation is in the file sarcasm_final_v2.ipynb
 In the project, we have used Python and NLP releated libraries like nltk, tensorflow, pandas, numpy, scikit-learn and many more.
-We have build and experimented with wide variety of models ranging from classical machine learning models like random forest, extra trees, xgboost, catboost
-to deep learning models like LSTM, RNN and pretrained models like bert.
+We have build and experimented with wide variety of models ranging from classical machine learning models like random forest, extra trees, xgboost, catboost to deep learning models like LSTM, RNN and pretrained models like bert.
